@@ -1,1 +1,1 @@
-Using linear programming solver to optimaly solve a riddle form game Indiana Jones and the Great Circle
+Using linear programming solver to optimaly solve a riddle from game Indiana Jones and the Great Circle
